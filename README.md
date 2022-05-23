@@ -2,7 +2,6 @@
 ### My name is João Pedro and my nickname is "Jão"!
 
 <div>
-  <br/>
   <a href="https://github.com/joao0pedro0alves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao0pedro0alves&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao0pedro0alves&layout=compact&langs_count=16&theme=cobalt"/> 
