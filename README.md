@@ -9,22 +9,26 @@
 
   I was recently introduced to the world of React JS and Ruby on Rails. There were many challenges and many projects in that time, and the greatest achievement for me is to feel the constant evolution, after all.
 
- **--- There 's always a next level !**
+ **There 's always a next level ! 🚀**
 </p>
 
 ### My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,ruby,php,html,css,nodejs,prisma,rails,graphql,react,nextjs,redux,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,ruby,nodejs,rails,prisma,graphql,react,nextjs,redux,tailwind,docker,git)](https://skillicons.dev)
 
 <details>
   <summary><small>Github Stats :zap:</small></summary>
   <p align="center">
     <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=joao0pedro0alves&theme=prussian&hide_border=true&background=000000">
+    <img 
+       src="https://github-readme-streak-stats.herokuapp.com?user=joao0pedro0alves&theme=transparent&hide_border=true"
+       height="100%" 
+       width="auto"
+    />
     <br/>
     <br/>
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=joao0pedro0alves&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs&bg_color=00000000"> 
-    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=joao0pedro0alves&layout=compact&hide_border=true&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img height="100%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=joao0pedro0alves&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs&bg_color=00000000"> 
+    <img height="100%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=joao0pedro0alves&layout=compact&hide_border=true&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   </p>
 </details>
 
