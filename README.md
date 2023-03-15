@@ -2,7 +2,7 @@
 
 **About me:**
 
-![studding](https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif)
+![studding](./.github/banner.gif)
 
 <p>
   Well, my name is João and I'm 20 years old. I entered the programming market at 15, with PHP7, HTML5 and CSS.
