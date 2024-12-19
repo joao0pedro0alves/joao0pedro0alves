@@ -16,7 +16,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,ruby,nodejs,rails,prisma,graphql,react,nextjs,redux,tailwind,docker,git)](https://skillicons.dev)
 
-<details>
+<!-- <details>
   <summary><small>Github Stats :zap:</small></summary>
   <p align="center">
     <br/>
@@ -31,6 +31,7 @@
     <img height="100%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=joao0pedro0alves&layout=compact&hide_border=true&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   </p>
 </details>
+-->
 
 ### Contact me
 
