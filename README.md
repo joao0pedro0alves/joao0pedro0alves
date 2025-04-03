@@ -1,23 +1,23 @@
-## Hi, I'm João Alves! 🤙
+## Olá, eu sou o João Alves! 🤙
 
-**About me:**
+**Sobre mim:**
 
 ![studding](./.github/banner.gif)
 
 <p>
-  Well, my name is João and I'm 20 years old. I entered the programming market at 15, with PHP7, HTML5 and CSS.
+  Olá! Meu nome é João, tenho 22 anos e entrei no mercado de programação aos 15, começando com PHP7, HTML5 e CSS.
 
-  I was recently introduced to the world of React JS and Ruby on Rails. There were many challenges and many projects in that time, and the greatest achievement for me is to feel the constant evolution, after all.
+  Recentemente, fui apresentado ao mundo do React JS e Ruby on Rails. Foram muitos desafios e projetos nesse período, e a maior conquista para mim é sentir a constante evolução, afinal, 
 
- **There 's always a next level ! 🚀**
+ **Sempre há um próximo nível! 🚀**
 </p>
 
-### My Skills
+### Minhas Habilidades
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,ruby,nodejs,rails,prisma,graphql,react,nextjs,redux,tailwind,docker,git)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=ts,js,ruby,nodejs,rails,prisma,graphql,react,nextjs,redux,tailwind,docker,git)](https://skillicons.dev)
 
 <details>
-  <summary><small>Github Stats :zap:</small></summary>
+  <summary><small>Estatísticas do Github :zap:</small></summary>
   <p align="center">
     <br/>
     <img 
@@ -32,7 +32,7 @@
   </p>
 </details>
 
-### Contact me
+### Entre em contato comigo
 
 <div>
   <a href = "mailto:contato@joao.alves1032003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" target="_blank"></a>
